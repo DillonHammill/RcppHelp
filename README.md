@@ -1,0 +1,2 @@
+# RcppHelp
+Example RcppParallel Code
